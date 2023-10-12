@@ -7,7 +7,7 @@ Face Detection with Viola-Jones and Deep Neural Networks (SSD)
 
 Feature Extraction with OpenCV and Deep Learning Networks
 
-##### Project Phase - 1: Face Recognition and Person Identity
+### Project Phase - 1: Face Recognition and Person Identity
 
 Gather Images
 
@@ -25,7 +25,7 @@ Tuning Machine Learning Model
 
 Model Evaluation
 
-##### Project Phase - 2: Train Facial Emotion Recognition
+### Project Phase - 2: Train Facial Emotion Recognition
 
 Gather Emotion Images
 
@@ -37,7 +37,7 @@ Tuning Machine Learning Models
 
 Model Evaluation
 
-##### Project Phase -3: Django Web App Developed in Local (Computer)
+### Project Phase -3: Django Web App Developed in Local (Computer)
 
 Setting Up Visual Studio Code
 
@@ -71,7 +71,7 @@ MVT + Machine Learning Framework
 
 Styling Django Web App with Bootstrap
 
-##### Project Phase -4: Deploy Web App in Heroku Cloud for Production
+### Project Phase -4: Deploy Web App in Heroku Cloud for Production
 
 Setting up Heroku Account.
 
